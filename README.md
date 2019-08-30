@@ -15,3 +15,15 @@ Special Features
 4. Entire system worked on PHP sessions thus no session could have 2 simultaneous users on the same machine, hence users has to logout from one ID to access the portal using another ID.
 5. Margin and Cost calculation was done dynamically to account for any changes pushed in by the Admin.
 6. Each Client's quote history was saved in a SQL DB so that Admin could retrieve the Data in Fuel Quote History Page.
+
+# HOW TO RUN #
+Prerequisites - 
+1. Install xampp on your system and paste all the files above in the Htdocs folder in your project name folder.
+    The path of the file must look like xampp/htdocs/your_folder
+2. In phpmyadmin, the following procedure must be followed:-
+    i.  Create a new DB and create 3 tables as admininfo, clientinfo, ratetable.
+    ii. In admininfo table,the tables must be as given in the file - admin_image.png
+    iii.In ratetable table, the table must be as given in the file - ratetable_image.png
+    iv. In clientinfo table, the table must be as given in the file - client_image.png
+3. Once everything is done as said above, type localhost/yourprojectname/login.php
+4. You are good to go!
