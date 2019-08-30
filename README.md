@@ -28,4 +28,21 @@ Prerequisites -
 3. Once everything is done as said above, type localhost/yourprojectname/login.php
 4. You are good to go!
 
+![Screenshot from 2019-08-30 15-04-31](https://user-images.githubusercontent.com/31385801/64011714-e52cbe80-cb39-11e9-8b33-3bffce8731c3.png)
+
+![Screenshot from 2019-08-30 15-04-42](https://user-images.githubusercontent.com/31385801/64011798-0beaf500-cb3a-11e9-92eb-a6b3ba1a1fd0.png)
+
+![Screenshot from 2019-08-30 15-04-53](https://user-images.githubusercontent.com/31385801/64011812-13120300-cb3a-11e9-8cc5-c6216057e101.png)
+
+![Screenshot from 2019-08-30 15-05-01](https://user-images.githubusercontent.com/31385801/64011813-13120300-cb3a-11e9-9cad-1f7934e629b0.png)
+
+![Screenshot from 2019-08-30 15-05-08](https://user-images.githubusercontent.com/31385801/64011814-13aa9980-cb3a-11e9-8251-9b95d12f85f3.png)
+
+![Screenshot from 2019-08-30 15-05-51](https://user-images.githubusercontent.com/31385801/64011815-13aa9980-cb3a-11e9-88b5-876b4d43d932.png)
+
+![Screenshot from 2019-08-30 15-06-05](https://user-images.githubusercontent.com/31385801/64011816-13aa9980-cb3a-11e9-8e0b-913cb9a4f4be.png)
+
+![Screenshot from 2019-08-30 15-06-13](https://user-images.githubusercontent.com/31385801/64011817-14433000-cb3a-11e9-9bd8-90dbd3f2827d.png)
+
+![Screenshot from 2019-08-30 15-07-02](https://user-images.githubusercontent.com/31385801/64011818-14433000-cb3a-11e9-98b4-4eccc2d9762c.png)
 
