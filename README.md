@@ -28,12 +28,4 @@ Prerequisites -
 3. Once everything is done as said above, type localhost/yourprojectname/login.php
 4. You are good to go!
 
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-04-31.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-04-42.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-04-53.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-05-01.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-05-08.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-05-51.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-06-05.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-06-13.png
-/home/apocazeel/Pictures/Screenshot from 2019-08-30 15-07-02.png
+
