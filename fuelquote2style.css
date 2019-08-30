@@ -1,0 +1,221 @@
+body{
+					background-position: center;
+					background-size: cover;
+					}
+
+				.left{
+					background-color: #f1f1f1;
+					width: 45%;
+					float: left;
+					padding: 1% 0 0;
+     			margin: auto;
+					}
+
+				.right{
+					background-color: #f1f1f1;
+					width: 45%;
+					float: right;
+					padding: 1% 0 0;
+     			margin: auto;
+					}
+
+				.message{
+			    font-family: "Lato", sans-serif;
+			    text-transform: uppercase;
+			    color: black;
+					letter-spacing: 2px;
+					font-weight: bold;
+       	  }
+
+				.quotation{
+					background-position: center;
+					font-family: "Lato", sans-serif;
+          background: rgba(125,125,190,0.8);
+					color: white;
+					position: relative;
+				  z-index: 1;
+				  margin: 0 auto 10px;
+				 	padding: 10px;
+				 	text-align: center;
+					width: 90%;
+					border-radius: 6px;
+					margin-bottom: 30px;
+					}
+
+				.button{
+					font-family: "Lato", sans-serif;
+				  	text-transform: uppercase;
+				  	letter-spacing: 2px;
+				  	outline: 0;
+				  	background: #ff6050;
+					width: 200px;
+				 	border: 0;
+				  	padding: 15px;
+				  	color: #FFFFFF;
+				  	font-size: 14px;
+				  	cursor: pointer;
+					border-radius: 6px;
+					}
+
+				.reset{
+					font-family: "Lato", sans-serif;
+					text-transform: uppercase;
+					letter-spacing: 2px;
+					width: 200px;
+					outline: 0;
+					background: #ff6050;
+					border: 0;
+					padding: 15px;
+					color: #FFFFFF;
+					font-size: 14px;
+					cursor: pointer;
+					border-radius: 6px;
+					}
+				
+				.quotation h4{
+				  	font-family: "Lato", sans-serif;
+				  	text-transform: uppercase;
+				  	letter-spacing: 3px;
+				  	margin-top: 1px;
+				  	color: #ffffff;
+					}
+				
+				.quotation input{
+					font-family: "Lato", sans-serif;
+				  	outline: 1;
+				  	background: #f2f2f2;
+				  	width: 50%;
+				  	border: 0;
+				  	margin: 0 0 15px;
+				  	padding: 15px;
+				  	box-sizing: border-box;
+				  	font-size: 14px;
+					color: black;
+					border-radius: 6px;
+					letter-spacing: 1px;
+					}
+
+				.history{
+					width: 100%;
+					border-radius: 6px;
+					}
+
+				.mid-left{
+					font-family: "Lato", sans-serif;
+					float: left;
+					}
+
+				.mid-right{
+					float: right;
+					}
+
+				.containers{
+					padding: 10px;
+					margin: 20px;
+					}
+
+				.checkhistory{
+					margin-top: 100px;
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					}
+
+				.history{
+					background-position: center;
+					font-family: "Lato", sans-serif;
+          			background: rgba(125,125,190,0.8);
+					z-index: 1;
+				  	margin: 0 auto 10px auto;
+				  	padding: 10px;
+				  	text-align: center;
+					width: 90%;
+					margin-bottom: 30px;
+					}
+		
+				.quotation h2{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					font-weight: bold;
+					letter-spacing: 2px;
+					}
+
+				.quotation h2{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					font-weight: bold;
+					letter-spacing: 2px;
+					}
+
+				.quotation h4{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					font-weight: bold;
+					letter-spacing: 3px;
+					}
+
+				.history h3{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					letter-spacing: 3px;
+					}
+
+				.history h2{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					font-weight: bold;
+					letter-spacing: 2px;
+					}
+
+				.history h4{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					letter-spacing: 3px;
+					font-weight: bold;
+					}
+
+				.history input{
+					font-family: "Lato", sans-serif;
+				  	outline: 1;
+				  	background: #f2f2f2;
+				  	width: 100%;
+				  	border: 0;
+				  	margin: 0 0 15px;
+				  	padding: 15px;
+				  	box-sizing: border-box;
+				  	font-size: 14px;
+					color: black;
+					border-radius: 6px;
+					letter-spacing: 1px;
+					}
+
+				.table tr, td{
+					color: white;
+					border: 1px solid white;
+					border-radius: 6px;
+					text-align: center;
+					text-transform: uppercase;
+					letter-spacing: 2px;
+					}
+
+				.table th{
+					color: white;
+					border: 1px solid white;
+					border-radius: 6px;
+					letter-spacing: 1px;
+					text-align: center;
+					}
+				
+				#headings{
+					font-family: "Lato", sans-serif;
+					letter-spacing: 2px;
+					font-size: 15px;
+					text-transform: uppercase;
+					}
+				
+				

@@ -1,0 +1,67 @@
+				body{
+		  	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(bg.jpg);
+		  	height: 100vh;
+		  	background-size: cover;
+		    background-position: center;
+		  }
+		  .login-page{
+		    width: 360px;
+		    padding: 10% 0 0;
+		    margin: auto
+		  }
+		  .form{
+		    position: relative;
+		    z-index: 1;
+		    background: rgba(125,125,190,0.8);
+		    max-width: 360px;
+		    margin: 0 auto 100px;
+		    padding: 45px;
+		    text-align: center;
+		  }
+		  .form input{
+		    font-family: "Lato", sans-serif;
+		    outline: 1;
+		    background: #f2f2f2;
+		    width: 100%;
+		    border: 0;
+		    margin: 0 0 15px;
+		    padding: 15px;
+		    box-sizing: border-box;
+		    font-size: 14px;
+		  }
+		  .form button{
+		    font-family: "Lato", sans-serif;
+		    text-transform: uppercase;
+		    letter-spacing: 2px;
+		    outline: 0;
+		    background: #ff6050;
+		    width: 100%;
+		    border: 0;
+		    padding: 15px;
+		    color: #FFFFFF;
+		    font-size: 14px;
+		    cursor: pointer;
+		  }
+		  .form h3{
+		    font-family: "Lato", sans-serif;
+		    text-transform: uppercase;
+		    font-size: 25px;
+		    letter-spacing: 3px;
+		    margin-top: 1px;
+		    margin-bottom: 30px;
+		    color: #ffffff;
+		  }
+		  .message{
+		    font-family: "Lato", sans-serif;
+		    text-transform: uppercase;
+		    font-size: 13px;
+		    margin-top: 50px;
+		    letter-spacing: 2px;
+		    color: #FFFFFF;
+		  }
+			#headings{
+				font-family: "Lato", sans-serif;
+				letter-spacing: 2px;
+				font-size: 15px;
+				text-transform: uppercase;
+			}

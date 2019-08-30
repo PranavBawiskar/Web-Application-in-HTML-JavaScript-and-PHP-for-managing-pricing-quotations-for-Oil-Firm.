@@ -1,0 +1,181 @@
+ .body{
+					background-position: center;
+					background-size: cover;
+				}
+				.quote{
+					background-color: #f1f1f1;
+					width: 90%;
+					padding: 1% 0 0;
+     			margin: auto;
+					overflow: hidden;
+				}
+
+			.quote h2 {
+					padding: 40px 20px 35px;
+					text-align: center;
+			}
+				.message{
+          font-family: "Lato", sans-serif;
+          text-transform: uppercase;
+          color: black;
+					letter-spacing: 2px;
+					font-weight: bold;
+        }
+				
+				.button{
+					font-family: "Lato", sans-serif;
+				  text-transform: uppercase;
+				  letter-spacing: 2px;
+					font-weight: bold;
+				  outline: 0;
+				  background: #ff6050;
+					width: 200px;
+				  border: 0;
+				  padding: 15px;
+				  color: #FFFFFF;
+				  font-size: 14px;
+				  cursor: pointer;
+					border-radius: 6px;
+				}
+				
+				.history{
+					width: 100%;
+					border-radius: 6px;
+				}
+				.mid-left{
+					font-family: "Lato", sans-serif;
+					float: left;
+					width: 38%;
+					display: initial;
+					padding: 10px;
+					text-align: center;
+					margin: 0 0 0 10%;
+				}
+				.mid-right{
+					font-family: "Lato", sans-serif;
+					float: left;
+					width: 39%;
+					padding: 10px;
+					/* display: inline-block; */
+					margin: 0 10% 0 0;
+				}
+				.dateFields {
+					display: flex;
+					width: 65%;
+					margin-left: 19%;
+			}
+				.containers{
+					width: 100%;
+					display: inline-flex;
+					padding: 20px 90px;
+					text-align: center;
+					/* margin: 0 12%; */
+					left: 33% !important;
+				}
+				.checkhistory{
+					margin: 5%;
+					font-family: "Lato", sans-serif;
+					text-align: center;
+				}
+				.history{
+					background-position: center;
+					font-family: "Lato", sans-serif;
+					background: rgba(125,125,190,0.8);
+					z-index: 1;
+					margin: 0 auto;
+					text-align: center;
+					width: 100%;
+					margin-bottom: 30px;
+				}
+				
+				.history h2{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					font-weight: bold;
+					letter-spacing: 3px;
+				}
+				.history h4{
+					font-family: "Lato", sans-serif;
+					text-align: center;
+					color: white;
+					letter-spacing: 3px;
+					font-weight: bold;
+				}
+				.history input{
+					font-family: "Lato", sans-serif;
+				  outline: 1;
+				  background: #f2f2f2;
+				  width: 100%;
+				  border: 0;
+				  margin: 0 0 15px;
+				  padding: 15px;
+				  box-sizing: border-box;
+				  font-size: 14px;
+					color: black;
+					border-radius: 6px;
+					letter-spacing: 1px;
+				}
+				.table tr, td{
+					color: white;
+					border: 1px solid white;
+					border-radius: 6px;
+					text-align: center;
+					text-transform: uppercase;
+					letter-spacing: 2px;
+				}
+
+				.table th{
+					color: white;
+					border: 1px solid white;
+					border-radius: 6px;
+					letter-spacing: 1px;
+					text-align: center;
+				}
+				
+				
+				#headings{
+					font-family: "Lato", sans-serif;
+					letter-spacing: 2px;
+					font-size: 15px;
+					text-transform: uppercase;
+				}
+				.checkhistory input{
+					width: 300px;
+					font-family: "Lato", sans-serif;
+					text-transform: lowercase;
+				}
+				.checkhistory h4{
+					text-transform: uppercase;
+					font-family: "Lato", sans-serif;
+					color: white;
+					letter-spacing: 3px;
+				}
+
+
+			.table-responsive {
+				border: none !important;
+		}
+
+
+
+@media (max-width: 767px) {
+			.dateFields {
+				display: block;
+				width: 100%;
+		}
+		
+		.mid-left {
+				width: 100%;
+				margin: 0;
+		}
+		.mid-right {width: 100%;
+				margin: 0;}
+		.containers {
+    width: 100%;
+    display: inline-flex;
+    padding: 20px 24px;}
+
+}
+
+
